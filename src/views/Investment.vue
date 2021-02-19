@@ -120,7 +120,7 @@
       </div>
     </div>
 
-    <div class="grid grid-cols-3 gap-4 my-3">
+    <div class="grid grid-cols-3 gap-x-6 gap-y-12 my-3">
       <investment-plan type="Silver" :interest="12" days="30 Days" />
       <investment-plan type="Gold" :interest="13" days="90 Days" />
       <investment-plan type="Diamon" :interest="13.5" days="180 Days" />
