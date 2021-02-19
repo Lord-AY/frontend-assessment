@@ -74,7 +74,7 @@
         >Cancel Renewal Anytime
       </p>
       <p class="my-2 text-gray-400">
-        <span
+        <span class="mr-2"
           ><svg
             class="inline"
             width="10"
